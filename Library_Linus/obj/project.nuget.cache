@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/WWIx1aMSbz0SZEjFGQMPRa/QPAX2yvwKMtDbzPsTecN0K41hRxkFs20yKwBRGLfRksX3KoJtt8SHWa7cMEy1w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\linus.andersson23\\Desktop\\Prog2\\C#\\Library_Linus\\Library_Linus.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\linus.andersson23\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

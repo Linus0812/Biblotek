@@ -1,0 +1,17 @@
+C:\Users\linus.andersson23\Desktop\Prog2\C#\Library_Linus\obj\Debug\net7.0\Library_Linus.csproj.AssemblyReference.cache
+C:\Users\linus.andersson23\Desktop\Prog2\C#\Library_Linus\obj\Debug\net7.0\Library_Linus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\linus.andersson23\Desktop\Prog2\C#\Library_Linus\obj\Debug\net7.0\Library_Linus.AssemblyInfoInputs.cache
+C:\Users\linus.andersson23\Desktop\Prog2\C#\Library_Linus\obj\Debug\net7.0\Library_Linus.AssemblyInfo.cs
+C:\Users\linus.andersson23\Desktop\Prog2\C#\Library_Linus\obj\Debug\net7.0\Library_Linus.csproj.CoreCompileInputs.cache
+C:\Users\linus.andersson23\Desktop\Prog2\C#\Library_Linus\bin\Debug\net7.0\Library_Linus.exe
+C:\Users\linus.andersson23\Desktop\Prog2\C#\Library_Linus\bin\Debug\net7.0\Library_Linus.deps.json
+C:\Users\linus.andersson23\Desktop\Prog2\C#\Library_Linus\bin\Debug\net7.0\Library_Linus.runtimeconfig.json
+C:\Users\linus.andersson23\Desktop\Prog2\C#\Library_Linus\bin\Debug\net7.0\Library_Linus.dll
+C:\Users\linus.andersson23\Desktop\Prog2\C#\Library_Linus\bin\Debug\net7.0\Library_Linus.pdb
+C:\Users\linus.andersson23\Desktop\Prog2\C#\Library_Linus\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\linus.andersson23\Desktop\Prog2\C#\Library_Linus\obj\Debug\net7.0\Library_Linus.csproj.CopyComplete
+C:\Users\linus.andersson23\Desktop\Prog2\C#\Library_Linus\obj\Debug\net7.0\Library_Linus.dll
+C:\Users\linus.andersson23\Desktop\Prog2\C#\Library_Linus\obj\Debug\net7.0\refint\Library_Linus.dll
+C:\Users\linus.andersson23\Desktop\Prog2\C#\Library_Linus\obj\Debug\net7.0\Library_Linus.pdb
+C:\Users\linus.andersson23\Desktop\Prog2\C#\Library_Linus\obj\Debug\net7.0\Library_Linus.genruntimeconfig.cache
+C:\Users\linus.andersson23\Desktop\Prog2\C#\Library_Linus\obj\Debug\net7.0\ref\Library_Linus.dll
